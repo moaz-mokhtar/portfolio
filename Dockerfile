@@ -5,6 +5,7 @@ FROM rust:1-slim-bookworm AS builder
 RUN apt-get update && apt-get install -y \
   pkg-config \
   libssl-dev \
+  perl \
   curl \
   && rm -rf /var/lib/apt/lists/*
 
