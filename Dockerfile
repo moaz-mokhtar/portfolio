@@ -32,8 +32,8 @@ WORKDIR /app
 
 # Copy the server binary
 # Site-root is target/site per Cargo.toml
-COPY --from:builder /app/target/release/portfolio /app/portfolio
-COPY --from:builder /app/target/site /app/target/site
+COPY --from=builder /app/target/release/portfolio /app/portfolio
+COPY --from=builder /app/target/site /app/target/site
 
 # Set environment variables
 ENV LEPTOS_SITE_ROOT=target/site
