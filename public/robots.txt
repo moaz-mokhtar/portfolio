@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moaz-mokhtar.netlify.app/sitemap.xml

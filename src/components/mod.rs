@@ -1,0 +1,9 @@
+pub mod basmala;
+pub mod contact;
+pub mod experience;
+pub mod footer;
+pub mod hero;
+pub mod navbar;
+pub mod profile;
+pub mod showcases;
+pub mod skills;

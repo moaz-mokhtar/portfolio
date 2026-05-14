@@ -1,0 +1,175 @@
+{
+  "profile": [
+    {
+      "text": "Participated in Building and maintaining production systems using Rust, React, and Python"
+    },
+    {
+      "text": "Participated in designing backend architectures and REST APIs for multiple companies"
+    },
+    {
+      "text": "Participated in implemented full-stack features across mobile, web, and server layers"
+    },
+    {
+      "text": "Participated in authoring a professional course: Become a Rust Backend Engineer",
+      "link": "https://masteringbackend.com/courses/become-a-rust-backend-engineer"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["Rust", "Python", "TypeScript", "JavaScript"]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "Actix Web",
+        "Nextjs",
+        "Axum",
+        "Diesel",
+        "SQLx",
+        "FastAPI",
+        "Django"
+      ]
+    },
+    {
+      "category": "Frontend",
+      "items": ["React", "Next.js", "React Native (Expo)", "Astro"]
+    },
+    {
+      "category": "Infra & Dev",
+      "items": ["PostgreSQL", "Docker", "Linux (Ubuntu)", "KVM", "gRPC", "Dapr"]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Developer — Self-Employed",
+      "period": "2021 – Present",
+      "bullets": [
+        "Built Rust backend systems and REST APIs for multiple clients",
+        "Designed and maintained React / Next.js web applications",
+        "Delivered Rust freelance projects on Upwork",
+        "Authored \"Become a Rust Backend Engineer\" course on MasteringBackend"
+      ]
+    },
+    {
+      "title": "Freelance Software Developer — Exacology",
+      "period": "2025 - 2026",
+      "bullets": [
+        "Participated as a full-stack developer using React, NextJs, PlanetScale, Stripe, etc."
+      ]
+    },
+    {
+      "title": "Software Developer — Enigma",
+      "period": "2024 – 2025",
+      "bullets": [
+        "Built features across React, React Native, and Python backends",
+        "Implemented full-stack modules for Psychometrica and Cybertron platforms",
+        "Contributed to AI-powered automotive platform with Remix and Next.js"
+      ]
+    },
+    {
+      "title": "Backend Developer — Puffin",
+      "period": "2023",
+      "bullets": [
+        "Built a custom PDF scraper for extracting structured data from government sources",
+        "Implemented scraping pipelines in Python for governmental datasets"
+      ]
+    },
+    {
+      "title": "Backend Developer — Egyptian Medical Union",
+      "period": "2022",
+      "bullets": [
+        "Participated in a microservices system using Python",
+        "Implemented gRPC services and Dapr-based orchestration",
+        "Experimented API integrations"
+      ]
+    },
+    {
+      "title": "Rust Developer — VA Computing Egypt",
+      "period": "2021 – 2022",
+      "bullets": [
+        "Participated in development for License Management Server in Rust",
+        "Built a mock-data generator for internal testing",
+        "Designed bulk-insertion functions and ran performance benchmarks on AWS EC2"
+      ]
+    },
+    {
+      "title": "Technical Support Specialist — Raya Contact Center",
+      "period": "2012 – 2021",
+      "bullets": [
+        "Provided technical support for Etisalat UAE customers",
+        "Led service-recovery initiatives during the final four years"
+      ]
+    }
+  ],
+  "showcases": [
+    {
+      "title": "ZinZen Scheduler",
+      "stack": "Rust",
+      "bullets": [
+        "Contributed to the calendar scheduling engine",
+        "Debugged and refactored core scheduling algorithms",
+        "Implemented new features within a large existing Rust codebase"
+      ],
+      "link": "https://zinzen.me/"
+    },
+    {
+      "title": "Cybertron (AI Platform)",
+      "stack": "Python, React",
+      "bullets": [
+        "Contrinuted to building backend and frontend modules for an AI-powered automotive platform"
+      ],
+      "link": "https://cybertron-labs.com/"
+    },
+    {
+      "title": "Psychometrica",
+      "stack": "Next.js, PlanetScale, Strapi",
+      "bullets": [
+        "Implemented full-stack features for a psychometric assessment platform",
+        "Fixed critical bugs and optimized rendering performance",
+        "validate DB data content"
+      ],
+      "link": "https://psychometrica.org/"
+    },
+    {
+      "title": "Civi (Government Data Scraper)",
+      "stack": "Python",
+      "bullets": [
+        "Built a PDF table scraper to extract structured political data",
+        "Designed pipelines for US government data sources"
+      ],
+      "link": null
+    },
+    {
+      "title": "RustDesk Customization",
+      "stack": "Rust",
+      "bullets": [
+        "Running RustDesk on Windows, and Ubuntu",
+        "Enhance Readme related to RustDesk specially about running it"
+      ],
+      "link": null
+    }
+  ],
+  "contact": [
+    {
+      "platform": "Upwork",
+      "url": "https://www.upwork.com/freelancers/~015f28b685a73145e6",
+      "icon": "upwork"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/moaz-mokhtar",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/moazmoktar",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "moaz.mokhtar@gmail.com",
+      "icon": "email"
+    }
+  ]
+}
