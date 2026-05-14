@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
   libssl-dev \
   perl \
   curl \
+  make \
   && rm -rf /var/lib/apt/lists/*
 
 # Install wasm32 target and cargo-leptos
