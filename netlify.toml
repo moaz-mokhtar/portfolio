@@ -1,0 +1,11 @@
+[build]
+  command = "rustup target add wasm32-unknown-unknown && cargo install cargo-leptos --locked && cargo leptos build --release -v"
+  publish = "target/site"
+
+[build.environment]
+  RUST_VERSION = "stable"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
