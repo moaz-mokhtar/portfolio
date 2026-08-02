@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://portfolio-v8.fly.dev/"
+  to = "https://portfolio-v8.fly.dev/:splat"
   status = 200
   force = true
